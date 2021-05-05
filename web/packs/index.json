@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "eurovision.json"
+  ],
+  "homeserver_url": "https://matrix.lmcly.fyi"
+}
