@@ -1,6 +1,7 @@
 {
   "packs": [
-    "eurovision.json"
+    "eurovision.json",
+    "Fruit_Vege.json"
   ],
   "homeserver_url": "https://matrix.lmcly.fyi"
 }
