@@ -2,11 +2,10 @@
   "packs": [
     "eurovision.json",
     "blobbyyyy.json",
-    "pokemon201unown.json",
     "wahhhh.json",
     "emojimashups.json",
     "garbage.json",
     "ohno_stickers.json"
   ],
-  "homeserver_url": "https://matrix.lmcly.fyi"
+  "homeserver_url": "https://matrix.mixmul.com"
 }
